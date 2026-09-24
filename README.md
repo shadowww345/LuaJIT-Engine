@@ -4,7 +4,7 @@
 ### Requirements
 **Aten Audio Engine: https://github.com/shadowww345/Aten-Audio-Engine** <br>
 ``
-sudo apt install libpipewire-0.3-dev libglfw3-dev libgl-dev
+sudo apt install libpipewire-0.3-dev libglfw3-dev libgl-dev luajit
 ``
 ### Features
 **Physics** <br>

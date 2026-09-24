@@ -7,8 +7,8 @@
 sudo apt install libpipewire-0.3-dev libglfw3-dev libgl-dev
 ``
 ### Features
-**Physics**
-**Player Movement**
-**Loading OBJ**
-**Keyframe Mesh**
-**Texture Loading**
+**Physics** <br>
+**Player Movement** <br>
+**Loading OBJ** <br>
+**Keyframe Mesh** <br>
+**Texture Loading** <br>
